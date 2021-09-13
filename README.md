@@ -1,3 +1,7 @@
+本项目由巧鹿技术团队提供
+forked from [huaweicloud/huaweicloud-sdk-php-obs](https://github.com/huaweicloud/huaweicloud-sdk-php-obs)
+主要修改相关第三方包的版本依赖
+
 Version 3.19.9
 更新发布版本号，新的版本号命名方式：主版本号.年标识.月标识。
 
