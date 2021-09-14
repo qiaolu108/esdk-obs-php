@@ -2,7 +2,6 @@
   "name": "qiaolu/esdk-obs-php",
   "description": "OBS PHP SDK",
   "license": "Apache-2.0",
-  "version": "3.21.7",
   "authors": [
     {
       "name": "shiguang",
